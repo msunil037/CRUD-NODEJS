@@ -1,0 +1,22 @@
+{
+  "name": "crud-nodejs",
+  "version": "1.0.0",
+  "description": "A demonstration project for showing CRUD operations in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msunil037/CRUD-NODEJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msunil037/CRUD-NODEJS/issues"
+  },
+  "homepage": "https://github.com/msunil037/CRUD-NODEJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
